@@ -1,4 +1,4 @@
 mccrackenart.github.io
 
 
-This is my personal website for self-publishing.
+This is my website for self-publishing.
